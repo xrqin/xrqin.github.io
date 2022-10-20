@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Boomerang Connectivity Table Revisited. Application to SKINNY and AES"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+
+date: 2019-10-01
+venue: 'Transactions on Symmetric Cryptology'
+paperurl: 'https://eprint.iacr.org/2019/146.pdf'
+citation: 'Ling Song, Xianrui Qin,  Lei Hu. (2019). &quot;Boomerang Connectivity Table Revisited. Application to SKINNY and AES.&quot; <i>Transactions on Symmetric Cryptology, Issue 1, 2019 (FSE)</i>. 118-141.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](https://eprint.iacr.org/2019/146.pdf)
+
+Recommended citation: Ling Song, Xianrui Qin,  Lei Hu. (2019). "Boomerang Connectivity Table Revisited. Application to SKINNY and AES" <i>Transactions on Symmetric Cryptology</i>. 118-141.
