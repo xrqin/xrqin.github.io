@@ -17,6 +17,7 @@ Education
 Internship Experience
 ======
 * Research Assistant, Nanyang Technological University, 09.2018-12.2018
+** Supervised by <ul>{https://guo.crypto.sg/}</ul>Prof. Jian Guo
 
 Publications
 ======
