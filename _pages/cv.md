@@ -14,11 +14,13 @@ Education
 * B.S. in Mathematics, Shandong University, 2015-2019
 * Ph.D in Computer Science, University of Hong Kong, 2019-2023 (expected)
 
-
+Internship Experience
+======
+* Research Assistant, Nanyang Technological University, 09.2018-12.2018
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
