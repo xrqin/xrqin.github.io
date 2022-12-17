@@ -1,14 +1,12 @@
 ---
-title: "MoNet: A Fast Payment Channel Network for Scriptless Cryptocurrency Monero"
+title: "Security on SM2 and GOST Signatures against Related Key Attacks."
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-
-date: 2022-10-01
-venue: 'IEEE International Conference on Distributed Computing Systems'
-paperurl: 'https://eprint.iacr.org/2022/744.pdf'
-citation: 'Zhimei Sui, Joseph K Liu, Jiangshan Yu, Xianrui Qin. (2022). &quot;MoNet: A Fast Payment Channel Network for Scriptless Cryptocurrency Monero.&quot; <i>The 42nd IEEE International Conference on Distributed Computing Systems (ICDCS), 2022.</i>. 1(3).'
+date: 2021-10-01
+venue: 'International Conference On Trust, Security and Privacy in Computing and Communications'
+paperurl: 'https://doi.org/10.1109/TrustCom53373.2021.00038'
+citation: 'Handong Cui, Xianrui Qin, Cailing Cai and Tsz Hon Yuen. (2021). &quot;Security on SM2 and GOST Signatures against Related Key Attacks.&quot; <i>IEEE International Conference On Trust, Security and Privacy in Computing and Communications, (Trustcom 2021)</i>. 1(3).'
 ---
 
-[Download paper here](https://eprint.iacr.org/2022/744.pdf)
+[Download paper here](https://doi.org/10.1109/TrustCom53373.2021.00038)
 
-Recommended citation: Zhimei Sui, Joseph K Liu, Jiangshan Yu, Xianrui Qin. (2022). "MoNet: A Fast Payment Channel Network for Scriptless Cryptocurrency Monero." <i>The 42nd IEEE International Conference on Distributed Computing Systems (ICDCS), 2022.</i> 1(3).
+Recommended citation: Handong Cui, Xianrui Qin, Cailing Cai and Tsz Hon Yuen. (2021). "Security on SM2 and GOST Signatures against Related Key Attacks." <i>Trustcom 2021</i>. 1(3).
