@@ -8,7 +8,7 @@ date: 2023-05-23
 venue: 'IEEE Symposium on Security and Privacy (IEEE S&P)'
 paperurl: ''
 citation: 'Xianrui Qin, Shimin Pan, Arash Mirzaei, Zhimei Sui, Oguzhan Ersoy, Amin Sakzad, Muhammed F. Esgin, Joseph K. Liu, Jiangshan Yu, Tsz Hon Yuen. (2023). &quot;BlindHub: Bitcoin-Compatible Privacy-Preserving Payment Channel Hubs
-Supporting Variable Amounts.&quot; <i>The 44nd IEEE Symposium on Security and Privacy (IEEE S&P), 2023.</i>. 1(3).'
+Supporting Variable Amounts.&quot; <i>To appear in the 44nd IEEE Symposium on Security and Privacy (IEEE S&P), 2023.</i>. 1(3).'
 ---
 
 [Download paper here]()
