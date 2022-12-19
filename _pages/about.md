@@ -14,4 +14,4 @@ Prior to this, I received my Bachelor's degree in school of Mathematics from [Sh
 
 My current focus is on building privacy-preserving protocols for blockchain.
 
-<font color="red"> I am on the 2022-2023 job market! Please email me if you think I'd be a good candidate for your team.
+<font color="red"> I am on the 2022-2023 job market!
