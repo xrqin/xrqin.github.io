@@ -6,7 +6,7 @@ permalink: /publication/2015-10-01-paper-title-number-3
 date: 2022-10-01
 venue: 'IEEE International Conference on Distributed Computing Systems (<b>ICDCS</b>)'
 paperurl: 'https://eprint.iacr.org/2022/744.pdf'
-citation: 'Zhimei Sui, Joseph K Liu, Jiangshan Yu, <b>Xianrui Qin</b>. (2022). <i>The 42nd IEEE International Conference on Distributed Computing Systems (ICDCS), 2022.</i>. 1(3).'
+citation: 'Zhimei Sui, Joseph K Liu, Jiangshan Yu, <b>Xianrui Qin</b>. 
 ---
 
 [Download paper here](https://eprint.iacr.org/2022/744.pdf)
