@@ -14,4 +14,7 @@ Prior to this, I received my Bachelor's degree in school of Mathematics from [Sh
 
 My current focus is on building privacy-preserving protocols for blockchain.
 
+My CV: [CV](https://xrqin.github.io/xianrui_qin_CV.pdf)
+
 <font color="red"> I am on the 2022-2023 job market!
+
