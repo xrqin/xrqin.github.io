@@ -7,6 +7,6 @@ paperurl: 'https://doi.org/10.1109/TrustCom53373.2021.00038'
 citation: 'Handong Cui, <b>Xianrui Qin</b>, Cailing Cai and Tsz Hon Yuen'
 ---
 
-[Download paper here](https://doi.org/10.1109/TrustCom53373.2021.00038)
+<!-- [Download paper here](https://doi.org/10.1109/TrustCom53373.2021.00038) -->
 
 Recommended citation: Handong Cui, Xianrui Qin, Cailing Cai and Tsz Hon Yuen. (2021). "Security on SM2 and GOST Signatures against Related Key Attacks." <i>Trustcom 2021</i>. 1(3).
