@@ -2,7 +2,7 @@
 title: "BlindHub: Bitcoin-Compatible Privacy-Preserving Payment Channel Hubs
 Supporting Variable Amounts"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-6
+permalink: https://eprint.iacr.org/2022/1735.pdf
 
 date: 2023-05-23
 venue: 'IEEE Symposium on Security and Privacy (<b>IEEE S&P</b>)'
