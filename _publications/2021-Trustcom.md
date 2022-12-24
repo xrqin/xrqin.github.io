@@ -1,6 +1,7 @@
 ---
 title: "Security on SM2 and GOST Signatures against Related Key Attacks."
 collection: publications
+permalink: doi.org/10.1109/TrustCom53373.2021.00038
 date: 2021-10-01
 venue: 'International Conference On Trust, Security and Privacy in Computing and Communications (<b>Trustcom</b>)'
 paperurl: 'https://doi.org/10.1109/TrustCom53373.2021.00038'

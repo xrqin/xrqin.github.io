@@ -1,7 +1,7 @@
 ---
 title: "Tight Leakage-Resilient Identity-based Encryption under Multi-challenge Setting."
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: dl.acm.org/doi/10.1145/3488932.3517422
 date: 2022-10-01
 venue: 'The ACM Asia Conference on Computer and Communications Security (<b>AsiaCCS</b>)'
 paperurl: 'https://dl.acm.org/doi/10.1145/3488932.3517422'

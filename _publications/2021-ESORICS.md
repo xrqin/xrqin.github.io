@@ -1,8 +1,7 @@
 ---
 title: "One-More Unforgeability of Blind ECDSA"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-
+permalink: eprint.iacr.org/2021/1449.pdf
 date: 2021-10-01
 venue: 'European Symposium on Research in Computer Security (<b>ESORICS</b>)'
 paperurl: 'https://eprint.iacr.org/2021/1449.pdf'

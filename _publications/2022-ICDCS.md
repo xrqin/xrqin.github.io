@@ -1,7 +1,7 @@
 ---
 title: "MoNet: A Fast Payment Channel Network for Scriptless Cryptocurrency Monero"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: eprint.iacr.org/2022/744.pdf
 
 date: 2022-10-01
 venue: 'IEEE International Conference on Distributed Computing Systems (<b>ICDCS</b>)'
