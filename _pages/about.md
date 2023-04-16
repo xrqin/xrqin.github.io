@@ -12,7 +12,7 @@ I am fourth-year Ph.D. student working on cryptography in the [Department of Com
 
 Prior to this, I received my Bachelor's degree in school of Mathematics from [Shandong University](https://en.sdu.edu.cn/) in 2019.
 
-My current focus is on building privacy-preserving protocols for blockchain.
+My passion lies in the intersection of cryptography and blockchain technology. Specifically, I am interested in developing cutting-edge privacy-preserving protocols for blockchain networks. Through my research, I aim to contribute to the creation of a more secure, transparent, and decentralized digital world.
 
 [[CV]](https://xrqin.github.io/xianrui_qin_CV.pdf)
 
