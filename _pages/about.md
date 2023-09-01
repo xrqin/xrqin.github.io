@@ -16,5 +16,7 @@ My passion lies in the intersection of cryptography and blockchain technology. S
 
 [[CV]](https://xrqin.github.io/xianrui_qin_CV.pdf)
 
+How to pronounce my name: "Shawn-Ray Chin".
+
 <font color="red"> I am on the 2022-2023 job market!
 
