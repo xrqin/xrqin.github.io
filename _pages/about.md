@@ -18,5 +18,5 @@ My passion lies in the intersection of cryptography and blockchain technology. S
 
 For those friends who find it difficult to pronounce my name: "Shawn-Ray Chin".
 
-<font color="red"> I am on the 2022-2023 job market!
+<font color="red"> I have (temporarily) quited the academia.
 
