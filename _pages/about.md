@@ -12,7 +12,7 @@ I obtained my Ph.D. degree in the [Department of Computer Science](https://www.c
 
 My passion lies in the intersection of cryptography and blockchain technology. Specifically, I am interested in developing cutting-edge privacy-preserving protocols for blockchain networks. Through my research, I aim to contribute to the creation of a more secure, transparent, and decentralized digital world.
 
-Currently, I am now a research engineer @ [OKX](https://x.com/okx).
+I am now a research engineer @ [OKX](https://x.com/okx).
 
 [[CV]](https://xrqin.github.io/xianrui_qin_CV.pdf)
 
